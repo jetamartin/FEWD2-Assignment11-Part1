@@ -1,0 +1,19 @@
+.ui-listview>li p {
+    margin: 1.5em;
+}
+.ui-page-theme-a p {
+    margin: 1em;
+}
+.ui-page-theme-a li {
+    margin-bottom: 1em;
+}
+ul {
+    padding-bottom: 1.25em;
+}
+ .ui-listview>li p {
+     white-space: normal; 
+ }
+
+.ui-listview>li.ui-last-child {
+        padding-bottom: 1em;
+}
